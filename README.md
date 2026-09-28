@@ -5,7 +5,7 @@ through /dev/sysmonitor, and a C++ application that reads and displays it.
 
 ## Status
 - Stage 1: Project introduction - Done (hello kernel module working)
-- Stage 2: Requirements and plan - In progress
+- Stage 2: Requirements and Development plan - Done
 
 ## Structure
 - driver/ - kernel module (C)
