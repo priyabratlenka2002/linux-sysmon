@@ -3,15 +3,19 @@
 A Linux kernel character device driver (C) that exposes system information
 through /dev/sysmonitor, and a C++ application that reads and displays it.
 
-## Status
-- Stage 1: Project introduction - Done
+## Status: Project Complete (All 6 Stages)
+
+- Stage 1: Introduction - Done
 - Stage 2: Requirements and plan - Done
 - Stage 3: Design and architecture - Done
-- Stage 4: Driver + C++ app (dummy data) - Done
-- Stage 5: Real data, testing - In progress
+- Stage 4: Driver + C++ app prototype - Done
+- Stage 5: Real data, testing - Done
+- Stage 6: Final report - Done
 
 ## Structure
 - driver/ - kernel module (C)
-- app/ - user application (C++)
-- docs/ - stage documents and UML diagrams
-- screenshots/ - progress evidence
+- app/ - C++ application
+- docs/ - all stage documents, UML diagrams, reports
+
+## Quick Start
+See docs/stage6-final-report.md, section 9.
